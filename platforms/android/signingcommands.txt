@@ -1,0 +1,12 @@
+from http://www.adamwadeharris.com/sign-publish-phonegap-app-google-play-store-windows/
+
+cd
+cd cordova/hello4
+cordova build android
+# Change build no. in manifest.xml
+cd platforms/android
+ant release # 2x passwords
+cd bin
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore climbgen.jks MainActivity-release-unsigned.apk ClimbGen # Password
+jarsigner -verify -verbose -certs MainActivity-release-unsigned.apk
+$zipalign -v 4 MainActivity-release-unsigned.apk ClimbGen.apk

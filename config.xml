@@ -1,0 +1,23 @@
+<?xml version='1.01' encoding='utf-8'?>
+<widget id="net.baves.climbgen" version="1.3" ios-CFBundleIdentifier="295AQHVL3J.net.baves.climbgen" android-packageName="com.company.androidapp" version="1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ClimbGen</name>
+    <description>
+        A workout generator and randomiser for rock climbing.
+    </description>
+    <author email="avesbenjamin@gmail.com" href="baves.net">
+        Ben Aves
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<preference name="orientation" value="portrait" />
+	<preference name="target-device" value="universal" />
+	<preference name="deployment-target" value="7.0" />
+	<platform name="android">
+	              <icon src="www/icon/android/drawable-ldpi/ic_launcher.png" density="ldpi" />
+	              <icon src="www/icon/android/drawable-mdpi/ic_launcher.png" density="mdpi" />
+	              <icon src="www/icon/android/drawable-hdpi/ic_launcher.png" density="hdpi" />
+	              <icon src="www/icon/android/drawable-xhdpi/ic_launcher.png" density="xhdpi" />
+				  <icon src="www/icon/android/drawable-xxhdpi/ic_launcher.png" density="xxhdpi" />
+				  <icon src="www/icon/android/drawable-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+	</platform>
+</widget>

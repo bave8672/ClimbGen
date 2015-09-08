@@ -1,0 +1,1171 @@
+2015-02-04 15:46:37.119 ClimbGen[3878:90463] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/436F2C02-907D-458C-8739-8AE3579639DB/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:46:37.252 ClimbGen[3878:90463] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:46:37.253 ClimbGen[3878:90463] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:46:37.255 ClimbGen[3878:90463] Unlimited access to network resources
+2015-02-04 15:46:37.259 ClimbGen[3878:90463] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:46:37.606 ClimbGen[3878:90463] [CDVTimer][admob] 0.256002ms
+2015-02-04 15:46:37.606 ClimbGen[3878:90463] [CDVTimer][TotalPluginStartup] 0.739992ms
+2015-02-04 15:46:37.874 ClimbGen[3878:90463] Resetting plugins due to page load.
+2015-02-04 15:46:38.764 ClimbGen[3878:90463] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/2EE62DA5-9D11-4537-805E-AD540E4E93B3/ClimbGen.app/www/index.html
+2015-02-04 15:52:50.484 ClimbGen[4078:92422] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/BDA4EDCC-846D-4FBE-A835-D12F96EBAF8A/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:52:50.646 ClimbGen[4078:92422] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:52:50.646 ClimbGen[4078:92422] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:52:50.648 ClimbGen[4078:92422] Unlimited access to network resources
+2015-02-04 15:52:50.652 ClimbGen[4078:92422] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:52:51.177 ClimbGen[4078:92422] [CDVTimer][admob] 0.195980ms
+2015-02-04 15:52:51.177 ClimbGen[4078:92422] [CDVTimer][TotalPluginStartup] 0.461996ms
+2015-02-04 15:52:52.224 ClimbGen[4078:92422] Resetting plugins due to page load.
+2015-02-04 15:52:52.458 ClimbGen[4078:92422] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/8F7596D0-6F87-40EA-82B4-D70893C89F0A/ClimbGen.app/www/index.html
+2015-02-04 15:53:21.247 ClimbGen[4167:92832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/4A70D51F-4533-4CE9-8873-55C2C10239C7/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:53:21.412 ClimbGen[4167:92832] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:53:21.413 ClimbGen[4167:92832] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:53:21.416 ClimbGen[4167:92832] Unlimited access to network resources
+2015-02-04 15:53:21.420 ClimbGen[4167:92832] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:53:21.888 ClimbGen[4167:92832] [CDVTimer][admob] 0.200987ms
+2015-02-04 15:53:21.889 ClimbGen[4167:92832] [CDVTimer][TotalPluginStartup] 1.115024ms
+2015-02-04 15:53:22.065 ClimbGen[4167:92832] Resetting plugins due to page load.
+2015-02-04 15:53:22.575 ClimbGen[4167:92832] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/634F9B93-CF32-43C0-AEAA-A78371CA736D/ClimbGen.app/www/index.html
+2015-02-04 15:54:31.608 ClimbGen[4258:93303] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/BCF36EE5-7D48-44EB-8B10-6A9BB044A046/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:54:31.772 ClimbGen[4258:93303] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:54:31.774 ClimbGen[4258:93303] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:54:31.776 ClimbGen[4258:93303] Unlimited access to network resources
+2015-02-04 15:54:31.780 ClimbGen[4258:93303] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:54:32.147 ClimbGen[4258:93303] [CDVTimer][admob] 0.200987ms
+2015-02-04 15:54:32.148 ClimbGen[4258:93303] [CDVTimer][TotalPluginStartup] 0.461996ms
+2015-02-04 15:54:32.367 ClimbGen[4258:93303] Resetting plugins due to page load.
+2015-02-04 15:54:32.735 ClimbGen[4258:93303] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/3091E417-CA76-4C74-8472-3AD03117C194/ClimbGen.app/www/index.html
+2015-02-04 15:56:03.222 ClimbGen[4356:94119] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/47D875CD-268D-46BE-8A9E-DD2F975CF49C/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:56:03.383 ClimbGen[4356:94119] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:56:03.384 ClimbGen[4356:94119] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:56:03.386 ClimbGen[4356:94119] Unlimited access to network resources
+2015-02-04 15:56:03.390 ClimbGen[4356:94119] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:56:04.037 ClimbGen[4356:94119] [CDVTimer][admob] 0.198007ms
+2015-02-04 15:56:04.037 ClimbGen[4356:94119] [CDVTimer][TotalPluginStartup] 0.456989ms
+2015-02-04 15:56:04.212 ClimbGen[4356:94119] Resetting plugins due to page load.
+2015-02-04 15:56:04.542 ClimbGen[4356:94119] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/AFC74803-9908-446B-B67C-59093E8D21F7/ClimbGen.app/www/index.html
+2015-02-04 15:58:00.063 ClimbGen[4448:94817] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/63FCD63D-B62F-4D9E-8C74-04654FE3411B/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:58:00.190 ClimbGen[4448:94817] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:58:00.191 ClimbGen[4448:94817] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:58:00.193 ClimbGen[4448:94817] Unlimited access to network resources
+2015-02-04 15:58:00.197 ClimbGen[4448:94817] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:58:01.105 ClimbGen[4448:94817] [CDVTimer][admob] 0.205994ms
+2015-02-04 15:58:01.105 ClimbGen[4448:94817] [CDVTimer][TotalPluginStartup] 0.468969ms
+2015-02-04 15:58:01.285 ClimbGen[4448:94817] Resetting plugins due to page load.
+2015-02-04 15:58:01.608 ClimbGen[4448:94817] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/468C5FE1-DC30-49D5-A4D3-94587AE07425/ClimbGen.app/www/index.html
+2015-02-04 15:59:06.876 ClimbGen[4537:95298] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/601785D4-9E74-4691-B93D-2F063174D45C/Library/Cookies/Cookies.binarycookies
+2015-02-04 15:59:07.003 ClimbGen[4537:95298] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 15:59:07.003 ClimbGen[4537:95298] Multi-tasking -> Device: YES, App: YES
+2015-02-04 15:59:07.005 ClimbGen[4537:95298] Unlimited access to network resources
+2015-02-04 15:59:07.009 ClimbGen[4537:95298] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 15:59:07.337 ClimbGen[4537:95298] [CDVTimer][admob] 0.245988ms
+2015-02-04 15:59:07.337 ClimbGen[4537:95298] [CDVTimer][TotalPluginStartup] 0.549972ms
+2015-02-04 15:59:07.506 ClimbGen[4537:95298] Resetting plugins due to page load.
+2015-02-04 15:59:07.854 ClimbGen[4537:95298] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/E352E554-69E8-4787-A406-1704C6799420/ClimbGen.app/www/index.html
+2015-02-04 16:00:38.742 ClimbGen[4627:95945] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/44A3281D-495E-4554-BB54-886B41884181/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:00:39.154 ClimbGen[4627:95945] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:00:39.154 ClimbGen[4627:95945] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:00:39.156 ClimbGen[4627:95945] Unlimited access to network resources
+2015-02-04 16:00:39.160 ClimbGen[4627:95945] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 16:00:39.481 ClimbGen[4627:95945] [CDVTimer][admob] 0.203967ms
+2015-02-04 16:00:39.481 ClimbGen[4627:95945] [CDVTimer][TotalPluginStartup] 0.461996ms
+2015-02-04 16:00:39.655 ClimbGen[4627:95945] Resetting plugins due to page load.
+2015-02-04 16:00:39.993 ClimbGen[4627:95945] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/F2B21202-AFA6-4D06-8EE6-7BD486873169/ClimbGen.app/www/index.html
+2015-02-04 16:02:26.043 ClimbGen[4728:96720] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/F1F527C5-8DED-4326-A78C-AD079DF7F4E6/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:02:26.205 ClimbGen[4728:96720] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:02:26.206 ClimbGen[4728:96720] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:02:26.208 ClimbGen[4728:96720] Unlimited access to network resources
+2015-02-04 16:02:26.211 ClimbGen[4728:96720] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 16:02:26.586 ClimbGen[4728:96720] [CDVTimer][admob] 0.204980ms
+2015-02-04 16:02:26.586 ClimbGen[4728:96720] [CDVTimer][TotalPluginStartup] 0.452995ms
+2015-02-04 16:02:27.007 ClimbGen[4728:96720] Resetting plugins due to page load.
+2015-02-04 16:02:27.686 ClimbGen[4728:96720] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/B84140DD-EAC7-4D44-8B3F-992149E3A981/ClimbGen.app/www/index.html
+2015-02-04 16:03:55.044 ClimbGen[4833:97361] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/CB87367B-0F3E-4C56-B1A9-A0E90A2855C2/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:03:55.281 ClimbGen[4833:97361] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:03:55.282 ClimbGen[4833:97361] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:03:55.284 ClimbGen[4833:97361] Unlimited access to network resources
+2015-02-04 16:03:55.289 ClimbGen[4833:97361] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 16:03:58.831 ClimbGen[4833:97361] [CDVTimer][admob] 0.219047ms
+2015-02-04 16:03:58.832 ClimbGen[4833:97361] [CDVTimer][TotalPluginStartup] 0.490010ms
+2015-02-04 16:03:59.459 ClimbGen[4833:97361] Resetting plugins due to page load.
+2015-02-04 16:04:00.586 ClimbGen[4833:97361] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/2B7199F3-621B-4A9D-8F39-83266E1161DE/ClimbGen.app/www/index.html
+2015-02-04 16:08:15.607 ClimbGen[5017:99035] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/11D6C7FF-F347-4DB3-99F1-4C0127CF0AFA/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:08:16.147 ClimbGen[5017:99035] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:08:16.148 ClimbGen[5017:99035] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:08:16.150 ClimbGen[5017:99035] Unlimited access to network resources
+2015-02-04 16:08:16.181 ClimbGen[5017:99035] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 16:08:16.621 ClimbGen[5017:99035] [CDVTimer][admob] 0.199020ms
+2015-02-04 16:08:16.621 ClimbGen[5017:99035] [CDVTimer][TotalPluginStartup] 0.496984ms
+2015-02-04 16:08:16.931 ClimbGen[5017:99035] Resetting plugins due to page load.
+2015-02-04 16:08:17.691 ClimbGen[5017:99035] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/2C25EACF-20D1-42C9-BA20-B1B917E06281/ClimbGen.app/www/index.html
+2015-02-04 16:12:34.563 ClimbGen[5196:100446] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/78276D78-D857-4252-BB4C-741ED160135E/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:12:34.874 ClimbGen[5196:100446] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:12:34.875 ClimbGen[5196:100446] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:12:34.877 ClimbGen[5196:100446] Unlimited access to network resources
+2015-02-04 16:12:34.907 ClimbGen[5196:100446] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 16:12:35.265 ClimbGen[5196:100446] [CDVTimer][admob] 0.213981ms
+2015-02-04 16:12:35.265 ClimbGen[5196:100446] [CDVTimer][TotalPluginStartup] 0.468016ms
+2015-02-04 16:12:35.592 ClimbGen[5196:100446] Resetting plugins due to page load.
+2015-02-04 16:12:36.432 ClimbGen[5196:100446] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/CE72B752-A88E-47DD-BC34-83F163CE608A/ClimbGen.app/www/index.html
+2015-02-05 11:05:43.223 ClimbGen[6653:171825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/76BE6F5A-8501-4677-B59C-35299CBD5196/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:05:43.668 ClimbGen[6653:171825] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:05:43.670 ClimbGen[6653:171825] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:05:43.673 ClimbGen[6653:171825] Unlimited access to network resources
+2015-02-05 11:05:43.702 ClimbGen[6653:171825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:05:44.028 ClimbGen[6653:171825] [CDVTimer][admob] 0.205040ms
+2015-02-05 11:05:44.028 ClimbGen[6653:171825] [CDVTimer][TotalPluginStartup] 0.464976ms
+2015-02-05 11:05:44.303 ClimbGen[6653:171825] Resetting plugins due to page load.
+2015-02-05 11:05:46.269 ClimbGen[6653:171825] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/5F5B18BC-0394-41AB-AB2F-6945FE46B7A9/ClimbGen.app/www/index.html
+2015-02-05 11:05:46.336 ClimbGen[6653:171825] prepareInterstitial
+2015-02-05 11:05:47.443 ClimbGen[6653:171825] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:05:48.122 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:05:48.890 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:05:49.685 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:05:50.131 ClimbGen[6653:171825] AdMob, onInterstitialReceive, 
+2015-02-05 11:05:50.131 ClimbGen[6653:171825] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:05:50.150 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:05:50.151 ClimbGen[6653:171825] AdMob, onInterstitialPresent, 
+2015-02-05 11:05:50.151 ClimbGen[6653:171825] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:06:11.775 ClimbGen[6653:171825] AdMob, onInterstitialDismiss, 
+2015-02-05 11:06:11.775 ClimbGen[6653:171825] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:06:12.445 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:13.962 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:14.081 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:14.248 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:14.623 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:14.765 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:14.917 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.048 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.178 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.308 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.457 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.585 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.705 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:15.841 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.020 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.147 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.279 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.408 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.589 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.730 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:16.878 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:17.571 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:18.218 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:21.351 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.114 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.213 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.357 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.497 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.630 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.767 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:22.897 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:23.067 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:23.175 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:23.307 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:24.716 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:24.887 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.028 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.208 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.330 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.459 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.639 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:25.933 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:32.732 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.138 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.309 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.467 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.599 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.752 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:33.881 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.023 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.170 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.324 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.457 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.596 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.728 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:34.868 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:35.008 ClimbGen[6653:171825] showInterstitial
+2015-02-05 11:06:57.745 ClimbGen[6742:172428] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/791EF42A-A8FF-4923-AF87-B29BCB167C1A/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:06:57.972 ClimbGen[6742:172428] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:06:57.974 ClimbGen[6742:172428] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:06:57.976 ClimbGen[6742:172428] Unlimited access to network resources
+2015-02-05 11:06:57.979 ClimbGen[6742:172428] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:06:58.357 ClimbGen[6742:172428] [CDVTimer][admob] 0.214994ms
+2015-02-05 11:06:58.358 ClimbGen[6742:172428] [CDVTimer][TotalPluginStartup] 0.473976ms
+2015-02-05 11:06:58.562 ClimbGen[6742:172428] Resetting plugins due to page load.
+2015-02-05 11:06:58.884 ClimbGen[6742:172428] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/A280B8B8-1D7C-49A3-B5F2-342F2A2CD43E/ClimbGen.app/www/index.html
+2015-02-05 11:06:58.943 ClimbGen[6742:172428] prepareInterstitial
+2015-02-05 11:06:59.262 ClimbGen[6742:172428] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:07:01.063 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:01.654 ClimbGen[6742:172428] AdMob, onInterstitialReceive, 
+2015-02-05 11:07:01.654 ClimbGen[6742:172428] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:07:05.365 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:05.367 ClimbGen[6742:172428] AdMob, onInterstitialPresent, 
+2015-02-05 11:07:05.367 ClimbGen[6742:172428] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:07:11.251 ClimbGen[6742:172428] AdMob, onInterstitialDismiss, 
+2015-02-05 11:07:11.251 ClimbGen[6742:172428] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:07:11.777 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:12.968 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:13.442 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:13.772 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:13.991 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:14.207 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:14.434 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:14.792 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:15.136 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:17.867 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:20.987 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:23.082 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:23.520 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:23.718 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:23.866 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.014 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.151 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.280 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.409 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.558 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.690 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:24.916 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:25.605 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:25.730 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:25.861 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.016 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.133 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.290 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.436 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.579 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.736 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:26.874 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:27.038 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:27.630 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:27.782 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:37.221 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:37.593 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:37.746 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:37.886 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:38.025 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:40.540 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:42.688 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:42.868 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.009 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.175 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.307 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.439 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.531 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.677 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.810 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:43.940 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.090 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.224 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.353 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.466 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.597 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.726 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:44.846 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.028 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.159 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.392 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.557 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.680 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.793 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:45.954 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:46.095 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:46.236 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:07:46.515 ClimbGen[6742:172428] showInterstitial
+2015-02-05 11:09:17.874 ClimbGen[6836:173246] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/269618B4-54C2-468D-8FC1-7ABA9D594D3C/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:09:18.001 ClimbGen[6836:173246] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:09:18.001 ClimbGen[6836:173246] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:09:18.003 ClimbGen[6836:173246] Unlimited access to network resources
+2015-02-05 11:09:18.007 ClimbGen[6836:173246] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:09:18.368 ClimbGen[6836:173246] [CDVTimer][admob] 0.382960ms
+2015-02-05 11:09:18.368 ClimbGen[6836:173246] [CDVTimer][TotalPluginStartup] 0.670016ms
+2015-02-05 11:09:18.660 ClimbGen[6836:173246] Resetting plugins due to page load.
+2015-02-05 11:09:19.036 ClimbGen[6836:173246] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/A40D2960-FF14-4BBF-B2FD-804D3540CF7E/ClimbGen.app/www/index.html
+2015-02-05 11:09:20.659 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:20.943 ClimbGen[6836:173246] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:09:21.750 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094961749;
+    "request_id" = 1;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:22.057 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:22.057 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:24.279 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:24.582 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094964581;
+    "request_id" = 2;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:24.587 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:24.587 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:25.498 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:25.540 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094965538;
+    "request_id" = 3;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:25.544 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:25.545 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:26.404 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:26.442 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094966442;
+    "request_id" = 4;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:26.447 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:26.447 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:26.898 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:26.932 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094966931;
+    "request_id" = 5;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:26.937 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:26.937 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:27.338 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:27.677 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:27.750 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094967748;
+    "request_id" = 6;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:27.855 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:28.038 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:28.325 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:28.649 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:28.649 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:29.252 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:29.252 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:29.252 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:30.101 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:30.398 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:30.698 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094970097;
+    "request_id" = 7;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:30.751 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094970750;
+    "request_id" = 8;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:30.836 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:31.440 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:31.752 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094971751;
+    "request_id" = 9;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:32.132 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:32.753 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094972750;
+    "request_id" = 10;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:32.977 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:33.660 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:33.948 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094973947;
+    "request_id" = 11;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:34.168 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:34.751 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094974750;
+    "request_id" = 12;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:34.860 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:35.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094975748;
+    "request_id" = 13;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:35.831 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:36.749 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094976748;
+    "request_id" = 14;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:37.752 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094977751;
+    "request_id" = 15;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:38.749 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094978749;
+    "request_id" = 16;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:39.752 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094979750;
+    "request_id" = 17;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:40.751 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094980750;
+    "request_id" = 18;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:41.750 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094981748;
+    "request_id" = 19;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:42.300 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:42.683 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:42.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094982748;
+    "request_id" = 20;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:43.033 ClimbGen[6836:173246] prepareInterstitial
+2015-02-05 11:09:43.749 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094983748;
+    "request_id" = 21;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:44.750 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094984748;
+    "request_id" = 22;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:45.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094985747;
+    "request_id" = 23;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:46.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094986748;
+    "request_id" = 24;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:47.751 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094987748;
+    "request_id" = 25;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:48.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094988748;
+    "request_id" = 26;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:49.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094989747;
+    "request_id" = 27;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:50.748 ClimbGen[6836:173246] <Google> Invalid Request: {
+    "base_uri" = "http:";
+    "enable_auto_click_protection" = 0;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1423094990747;
+    "request_id" = 28;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2015-02-05 11:09:50.752 ClimbGen[6836:173246] AdMob, onInterstitialFailedToReceive, {'error': 'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:09:50.753 ClimbGen[6836:173246] AdMob, onAdFailLoad, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdFailLoad','error':0,'reason':'Request Error: Invalid ad request parameter(s). Check the Xcode console for details.'}
+2015-02-05 11:10:47.946 ClimbGen[6932:173869] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/B16701C8-0153-472D-9203-894E5E75E148/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:10:48.096 ClimbGen[6932:173869] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:10:48.097 ClimbGen[6932:173869] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:10:48.099 ClimbGen[6932:173869] Unlimited access to network resources
+2015-02-05 11:10:48.105 ClimbGen[6932:173869] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:10:48.436 ClimbGen[6932:173869] [CDVTimer][admob] 0.204980ms
+2015-02-05 11:10:48.437 ClimbGen[6932:173869] [CDVTimer][TotalPluginStartup] 0.467956ms
+2015-02-05 11:10:48.612 ClimbGen[6932:173869] Resetting plugins due to page load.
+2015-02-05 11:10:48.990 ClimbGen[6932:173869] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/93719882-87F4-4BE6-B611-670ED3AE0E01/ClimbGen.app/www/index.html
+2015-02-05 11:10:49.057 ClimbGen[6932:173869] prepareInterstitial
+2015-02-05 11:10:49.378 ClimbGen[6932:173869] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:10:50.588 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:51.579 ClimbGen[6932:173869] AdMob, onInterstitialReceive, 
+2015-02-05 11:10:51.580 ClimbGen[6932:173869] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:10:51.942 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:51.943 ClimbGen[6932:173869] AdMob, onInterstitialPresent, 
+2015-02-05 11:10:51.944 ClimbGen[6932:173869] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:10:58.030 ClimbGen[6932:173869] AdMob, onInterstitialDismiss, 
+2015-02-05 11:10:58.031 ClimbGen[6932:173869] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:10:58.372 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:58.835 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:58.994 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.174 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.334 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.501 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.658 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.818 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:10:59.993 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.148 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.322 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.482 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.671 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.807 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:00.994 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:01.136 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:01.319 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:01.820 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:10.717 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:12.675 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:13.919 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:14.380 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:14.806 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:15.264 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:15.627 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:15.777 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:15.953 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:16.093 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:16.270 ClimbGen[6932:173869] showInterstitial
+2015-02-05 11:11:49.544 ClimbGen[7022:174426] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/CF6C0C20-BC34-4D62-B895-721DE5924AB3/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:11:49.696 ClimbGen[7022:174426] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:11:49.696 ClimbGen[7022:174426] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:11:49.698 ClimbGen[7022:174426] Unlimited access to network resources
+2015-02-05 11:11:49.702 ClimbGen[7022:174426] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:11:50.036 ClimbGen[7022:174426] [CDVTimer][admob] 0.209033ms
+2015-02-05 11:11:50.037 ClimbGen[7022:174426] [CDVTimer][TotalPluginStartup] 0.491977ms
+2015-02-05 11:11:50.206 ClimbGen[7022:174426] Resetting plugins due to page load.
+2015-02-05 11:11:50.584 ClimbGen[7022:174426] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/B1D29BF7-BAAB-433B-9CF3-B3726E04DB60/ClimbGen.app/www/index.html
+2015-02-05 11:11:50.643 ClimbGen[7022:174426] prepareInterstitial
+2015-02-05 11:11:50.962 ClimbGen[7022:174426] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:11:52.664 ClimbGen[7022:174426] AdMob, onInterstitialReceive, 
+2015-02-05 11:11:52.665 ClimbGen[7022:174426] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:12:04.141 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:04.142 ClimbGen[7022:174426] AdMob, onInterstitialPresent, 
+2015-02-05 11:12:04.143 ClimbGen[7022:174426] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:12:07.458 ClimbGen[7022:174426] AdMob, onInterstitialDismiss, 
+2015-02-05 11:12:07.458 ClimbGen[7022:174426] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:12:08.208 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:09.265 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:09.939 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:10.399 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:12.313 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:13.387 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:14.314 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:17.190 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:19.329 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:19.897 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:20.417 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:21.095 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:21.800 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:27.839 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:28.314 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:28.495 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:28.673 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:28.841 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.023 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.182 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.352 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.519 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.691 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:29.856 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.010 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.152 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.316 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.480 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.708 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:12:30.874 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:13:09.597 ClimbGen[7022:174426] showInterstitial
+2015-02-05 11:16:39.235 ClimbGen[7115:175594] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/23B4686A-D6DA-4FA4-902F-B596E921048B/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:16:39.625 ClimbGen[7115:175594] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:16:39.625 ClimbGen[7115:175594] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:16:39.627 ClimbGen[7115:175594] Unlimited access to network resources
+2015-02-05 11:16:39.631 ClimbGen[7115:175594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:16:40.009 ClimbGen[7115:175594] [CDVTimer][admob] 0.208974ms
+2015-02-05 11:16:40.009 ClimbGen[7115:175594] [CDVTimer][TotalPluginStartup] 0.469029ms
+2015-02-05 11:16:40.292 ClimbGen[7115:175594] Resetting plugins due to page load.
+2015-02-05 11:16:40.832 ClimbGen[7115:175594] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/18EBC1B9-BD42-4B83-A66C-9E809FC211D5/ClimbGen.app/www/index.html
+2015-02-05 11:16:40.893 ClimbGen[7115:175594] prepareInterstitial
+2015-02-05 11:16:41.202 ClimbGen[7115:175594] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:16:42.805 ClimbGen[7115:175594] AdMob, onInterstitialReceive, 
+2015-02-05 11:16:42.806 ClimbGen[7115:175594] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:16:45.653 ClimbGen[7115:175594] showInterstitial
+2015-02-05 11:16:45.655 ClimbGen[7115:175594] AdMob, onInterstitialPresent, 
+2015-02-05 11:16:45.655 ClimbGen[7115:175594] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:16:51.634 ClimbGen[7115:175594] AdMob, onInterstitialDismiss, 
+2015-02-05 11:16:51.634 ClimbGen[7115:175594] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:16:56.668 ClimbGen[7115:175594] showInterstitial
+2015-02-05 11:17:05.417 ClimbGen[7115:175594] showInterstitial
+2015-02-05 11:18:02.590 ClimbGen[7205:176189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Data/Application/C4D6FB9B-5ADD-4DC5-85C3-704DD4F04113/Library/Cookies/Cookies.binarycookies
+2015-02-05 11:18:02.721 ClimbGen[7205:176189] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 11:18:02.722 ClimbGen[7205:176189] Multi-tasking -> Device: YES, App: YES
+2015-02-05 11:18:02.724 ClimbGen[7205:176189] Unlimited access to network resources
+2015-02-05 11:18:02.727 ClimbGen[7205:176189] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 11:18:03.063 ClimbGen[7205:176189] [CDVTimer][admob] 0.207961ms
+2015-02-05 11:18:03.064 ClimbGen[7205:176189] [CDVTimer][TotalPluginStartup] 0.460982ms
+2015-02-05 11:18:03.234 ClimbGen[7205:176189] Resetting plugins due to page load.
+2015-02-05 11:18:03.609 ClimbGen[7205:176189] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/231EB531-4F63-4AC8-8796-4F349DED5E1F/ClimbGen.app/www/index.html
+2015-02-05 11:18:03.671 ClimbGen[7205:176189] prepareInterstitial
+2015-02-05 11:18:03.983 ClimbGen[7205:176189] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-02-05 11:18:05.618 ClimbGen[7205:176189] AdMob, onInterstitialReceive, 
+2015-02-05 11:18:05.618 ClimbGen[7205:176189] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:18:09.130 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:18:09.132 ClimbGen[7205:176189] AdMob, onInterstitialPresent, 
+2015-02-05 11:18:09.132 ClimbGen[7205:176189] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:18:15.588 ClimbGen[7205:176189] AdMob, onInterstitialDismiss, 
+2015-02-05 11:18:15.588 ClimbGen[7205:176189] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:18:16.528 ClimbGen[7205:176189] prepareInterstitial
+2015-02-05 11:18:17.319 ClimbGen[7205:176189] AdMob, onInterstitialReceive, 
+2015-02-05 11:18:17.319 ClimbGen[7205:176189] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-02-05 11:18:27.533 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:18:27.535 ClimbGen[7205:176189] AdMob, onInterstitialPresent, 
+2015-02-05 11:18:27.535 ClimbGen[7205:176189] AdMob, onAdPresent, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdPresent'}
+2015-02-05 11:18:32.562 ClimbGen[7205:176189] AdMob, onInterstitialDismiss, 
+2015-02-05 11:18:32.562 ClimbGen[7205:176189] AdMob, onAdDismiss, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdDismiss'}
+2015-02-05 11:20:33.196 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:33.221 ClimbGen[7205:176189] THREAD WARNING: ['AdMob'] took '24.541016' ms. Plugin should use a background thread.
+2015-02-05 11:20:40.577 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:40.600 ClimbGen[7205:176189] THREAD WARNING: ['AdMob'] took '22.542969' ms. Plugin should use a background thread.
+2015-02-05 11:20:41.259 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:41.640 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:42.031 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:42.766 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:51.684 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:52.282 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:52.783 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:57.294 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:57.692 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:58.308 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:59.092 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:20:59.567 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:21:00.184 ClimbGen[7205:176189] showInterstitial
+2015-02-05 11:21:00.696 ClimbGen[7205:176189] showInterstitial
+2015-03-08 12:02:15.380 ClimbGen[779:19659] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:02:15.420 ClimbGen[779:19659] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:02:15.423 ClimbGen[779:19659] Unlimited access to network resources
+2015-03-08 12:02:15.428 ClimbGen[779:19659] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:02:15.738 ClimbGen[779:19659] [CDVTimer][admob] 0.230968ms
+2015-03-08 12:02:15.743 ClimbGen[779:19659] [CDVTimer][TotalPluginStartup] 5.061030ms
+2015-03-08 12:02:16.009 ClimbGen[779:19659] Resetting plugins due to page load.
+2015-03-08 12:02:16.376 ClimbGen[779:19659] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/A74F92D1-696B-4BDC-BA84-5B459A0B6A8A/ClimbGen.app/www/index.html
+2015-03-08 12:02:46.448 ClimbGen[915:20081] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:02:46.449 ClimbGen[915:20081] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:02:46.451 ClimbGen[915:20081] Unlimited access to network resources
+2015-03-08 12:02:46.454 ClimbGen[915:20081] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:02:46.777 ClimbGen[915:20081] [CDVTimer][admob] 0.205040ms
+2015-03-08 12:02:46.777 ClimbGen[915:20081] [CDVTimer][TotalPluginStartup] 0.487983ms
+2015-03-08 12:02:46.996 ClimbGen[915:20081] Resetting plugins due to page load.
+2015-03-08 12:02:47.323 ClimbGen[915:20081] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/AEDF271D-B3B4-46B2-B34A-1DA1B9B2BE25/ClimbGen.app/www/index.html
+2015-03-08 12:03:35.479 ClimbGen[1058:20607] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:03:35.481 ClimbGen[1058:20607] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:03:35.483 ClimbGen[1058:20607] Unlimited access to network resources
+2015-03-08 12:03:35.487 ClimbGen[1058:20607] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:03:35.783 ClimbGen[1058:20607] [CDVTimer][admob] 0.207961ms
+2015-03-08 12:03:35.783 ClimbGen[1058:20607] [CDVTimer][TotalPluginStartup] 0.467002ms
+2015-03-08 12:03:36.004 ClimbGen[1058:20607] Resetting plugins due to page load.
+2015-03-08 12:03:36.349 ClimbGen[1058:20607] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/5B7099E2-EEBB-4512-AEB4-4A68F9BFB2F6/ClimbGen.app/www/index.html
+2015-03-08 12:04:17.767 ClimbGen[1198:21064] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:04:17.769 ClimbGen[1198:21064] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:04:17.771 ClimbGen[1198:21064] Unlimited access to network resources
+2015-03-08 12:04:17.774 ClimbGen[1198:21064] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:04:18.042 ClimbGen[1198:21064] [CDVTimer][admob] 0.205994ms
+2015-03-08 12:04:18.042 ClimbGen[1198:21064] [CDVTimer][TotalPluginStartup] 0.463009ms
+2015-03-08 12:04:18.278 ClimbGen[1198:21064] Resetting plugins due to page load.
+2015-03-08 12:04:18.578 ClimbGen[1198:21064] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/9AB6EE72-7171-4CA8-9E3D-B7874D888FE5/ClimbGen.app/www/index.html
+2015-03-08 12:10:21.582 ClimbGen[1337:22131] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:10:21.583 ClimbGen[1337:22131] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:10:21.585 ClimbGen[1337:22131] Unlimited access to network resources
+2015-03-08 12:10:21.589 ClimbGen[1337:22131] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:10:21.853 ClimbGen[1337:22131] [CDVTimer][admob] 0.205994ms
+2015-03-08 12:10:21.853 ClimbGen[1337:22131] [CDVTimer][TotalPluginStartup] 0.463009ms
+2015-03-08 12:10:22.128 ClimbGen[1337:22131] Resetting plugins due to page load.
+2015-03-08 12:10:22.243 ClimbGen[1337:22131] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/6A8E3816-EBDC-496E-9932-723F7AD0A0F4/ClimbGen.app/www/index.html
+2015-03-08 12:12:09.232 ClimbGen[1474:22825] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:12:09.233 ClimbGen[1474:22825] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:12:09.235 ClimbGen[1474:22825] Unlimited access to network resources
+2015-03-08 12:12:09.238 ClimbGen[1474:22825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:12:09.504 ClimbGen[1474:22825] [CDVTimer][admob] 0.202000ms
+2015-03-08 12:12:09.504 ClimbGen[1474:22825] [CDVTimer][TotalPluginStartup] 0.464022ms
+2015-03-08 12:12:09.728 ClimbGen[1474:22825] Resetting plugins due to page load.
+2015-03-08 12:12:10.054 ClimbGen[1474:22825] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/0C8284A2-2B55-45C5-B498-D87F7EAEFA0E/ClimbGen.app/www/index.html
+2015-03-08 12:16:56.850 ClimbGen[1620:23904] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:16:56.852 ClimbGen[1620:23904] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:16:56.854 ClimbGen[1620:23904] Unlimited access to network resources
+2015-03-08 12:16:56.862 ClimbGen[1620:23904] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:16:58.713 ClimbGen[1620:23904] [CDVTimer][admob] 0.232995ms
+2015-03-08 12:16:58.713 ClimbGen[1620:23904] [CDVTimer][TotalPluginStartup] 0.512004ms
+2015-03-08 12:16:59.213 ClimbGen[1620:23904] Resetting plugins due to page load.
+2015-03-08 12:16:59.571 ClimbGen[1620:23904] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/59E5023C-F988-43E5-B490-00CC3D8FB32F/ClimbGen.app/www/index.html
+2015-03-08 12:18:08.392 ClimbGen[1759:24515] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:18:08.394 ClimbGen[1759:24515] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:18:08.396 ClimbGen[1759:24515] Unlimited access to network resources
+2015-03-08 12:18:08.399 ClimbGen[1759:24515] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:18:08.675 ClimbGen[1759:24515] [CDVTimer][admob] 0.213981ms
+2015-03-08 12:18:08.675 ClimbGen[1759:24515] [CDVTimer][TotalPluginStartup] 0.467956ms
+2015-03-08 12:18:08.993 ClimbGen[1759:24515] Resetting plugins due to page load.
+2015-03-08 12:18:09.458 ClimbGen[1759:24515] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/DC586688-8739-4DFA-932E-EA1C3556EC5D/ClimbGen.app/www/index.html
+2015-03-08 12:18:41.397 ClimbGen[1759:24515] prepareInterstitial
+2015-03-08 12:18:41.772 ClimbGen[1759:24515] <Google> To get test ads on this device, call: request.testDevices = @[ GAD_SIMULATOR_ID ];
+2015-03-08 12:18:46.129 ClimbGen[1759:24515] AdMob, onInterstitialReceive, 
+2015-03-08 12:18:46.130 ClimbGen[1759:24515] AdMob, onAdLoaded, {'adNetwork':'AdMob','adType':'interstitial','adEvent':'onAdLoaded'}
+2015-03-08 12:19:29.351 ClimbGen[1896:25071] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:19:29.353 ClimbGen[1896:25071] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:19:29.355 ClimbGen[1896:25071] Unlimited access to network resources
+2015-03-08 12:19:29.358 ClimbGen[1896:25071] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:19:29.628 ClimbGen[1896:25071] [CDVTimer][admob] 0.250995ms
+2015-03-08 12:19:29.629 ClimbGen[1896:25071] [CDVTimer][TotalPluginStartup] 0.558019ms
+2015-03-08 12:19:29.868 ClimbGen[1896:25071] Resetting plugins due to page load.
+2015-03-08 12:19:30.200 ClimbGen[1896:25071] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/59F3D6A9-4874-4B00-A9F7-15BEAA56242F/ClimbGen.app/www/index.html
+2015-03-08 12:23:21.450 ClimbGen[2035:25949] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:23:21.452 ClimbGen[2035:25949] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:23:21.454 ClimbGen[2035:25949] Unlimited access to network resources
+2015-03-08 12:23:21.457 ClimbGen[2035:25949] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:23:21.722 ClimbGen[2035:25949] [CDVTimer][admob] 0.202000ms
+2015-03-08 12:23:21.723 ClimbGen[2035:25949] [CDVTimer][TotalPluginStartup] 0.464022ms
+2015-03-08 12:23:21.947 ClimbGen[2035:25949] Resetting plugins due to page load.
+2015-03-08 12:23:22.222 ClimbGen[2035:25949] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/28B4DD29-F372-4BCE-B6D7-CD354EA5B287/ClimbGen.app/www/index.html
+2015-03-08 12:27:19.887 ClimbGen[2175:26948] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:27:19.907 ClimbGen[2175:26948] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:27:19.910 ClimbGen[2175:26948] Unlimited access to network resources
+2015-03-08 12:27:19.914 ClimbGen[2175:26948] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:27:20.247 ClimbGen[2175:26948] [CDVTimer][admob] 0.203013ms
+2015-03-08 12:27:20.247 ClimbGen[2175:26948] [CDVTimer][TotalPluginStartup] 0.465035ms
+2015-03-08 12:27:20.535 ClimbGen[2175:26948] Resetting plugins due to page load.
+2015-03-08 12:27:20.961 ClimbGen[2175:26948] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/030A3237-E829-431F-AAE5-E3056AB91DEB/ClimbGen.app/www/index.html
+2015-03-08 12:28:50.997 ClimbGen[2313:27627] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:28:51.000 ClimbGen[2313:27627] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:28:51.002 ClimbGen[2313:27627] Unlimited access to network resources
+2015-03-08 12:28:51.006 ClimbGen[2313:27627] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:28:51.363 ClimbGen[2313:27627] [CDVTimer][admob] 0.217974ms
+2015-03-08 12:28:51.363 ClimbGen[2313:27627] [CDVTimer][TotalPluginStartup] 0.481009ms
+2015-03-08 12:28:51.600 ClimbGen[2313:27627] Resetting plugins due to page load.
+2015-03-08 12:28:51.950 ClimbGen[2313:27627] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/14D4D8A3-D74A-4AB2-A1BB-41F753756935/ClimbGen.app/www/index.html
+2015-03-08 12:29:35.765 ClimbGen[2450:28136] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 12:29:35.766 ClimbGen[2450:28136] Multi-tasking -> Device: YES, App: YES
+2015-03-08 12:29:35.768 ClimbGen[2450:28136] Unlimited access to network resources
+2015-03-08 12:29:35.771 ClimbGen[2450:28136] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 12:29:36.064 ClimbGen[2450:28136] [CDVTimer][admob] 0.204027ms
+2015-03-08 12:29:36.065 ClimbGen[2450:28136] [CDVTimer][TotalPluginStartup] 0.461996ms
+2015-03-08 12:29:36.260 ClimbGen[2450:28136] Resetting plugins due to page load.
+2015-03-08 12:29:36.700 ClimbGen[2450:28136] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/78CFCDDD-C686-405B-93BB-FEA5363B40FE/ClimbGen.app/www/index.html
+2015-03-08 16:11:04.016 ClimbGen[2605:30374] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 16:11:04.017 ClimbGen[2605:30374] Multi-tasking -> Device: YES, App: YES
+2015-03-08 16:11:04.019 ClimbGen[2605:30374] Unlimited access to network resources
+2015-03-08 16:11:04.025 ClimbGen[2605:30374] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 16:11:04.310 ClimbGen[2605:30374] [CDVTimer][admob] 0.200987ms
+2015-03-08 16:11:04.310 ClimbGen[2605:30374] [CDVTimer][TotalPluginStartup] 0.467956ms
+2015-03-08 16:11:04.566 ClimbGen[2605:30374] Resetting plugins due to page load.
+2015-03-08 16:11:04.937 ClimbGen[2605:30374] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/2C53705F-7211-4608-88E4-6029CB68998C/ClimbGen.app/www/index.html
+2015-03-08 16:11:39.233 ClimbGen[2745:30841] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 16:11:39.234 ClimbGen[2745:30841] Multi-tasking -> Device: YES, App: YES
+2015-03-08 16:11:39.237 ClimbGen[2745:30841] Unlimited access to network resources
+2015-03-08 16:11:39.243 ClimbGen[2745:30841] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 16:11:39.563 ClimbGen[2745:30841] [CDVTimer][admob] 0.243008ms
+2015-03-08 16:11:39.564 ClimbGen[2745:30841] [CDVTimer][TotalPluginStartup] 0.523031ms
+2015-03-08 16:11:39.840 ClimbGen[2745:30841] Resetting plugins due to page load.
+2015-03-08 16:11:40.575 ClimbGen[2745:30841] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/7E0924A1-BC8D-4408-8A7B-9BF6D575A2EF/ClimbGen.app/www/index.html
+2015-03-08 16:12:32.334 ClimbGen[2882:31379] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 16:12:32.335 ClimbGen[2882:31379] Multi-tasking -> Device: YES, App: YES
+2015-03-08 16:12:32.337 ClimbGen[2882:31379] Unlimited access to network resources
+2015-03-08 16:12:32.341 ClimbGen[2882:31379] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 16:12:32.659 ClimbGen[2882:31379] [CDVTimer][admob] 0.203013ms
+2015-03-08 16:12:32.659 ClimbGen[2882:31379] [CDVTimer][TotalPluginStartup] 0.464022ms
+2015-03-08 16:12:33.009 ClimbGen[2882:31379] Resetting plugins due to page load.
+2015-03-08 16:12:33.541 ClimbGen[2882:31379] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/C23F6305-E607-452F-B482-C3E96D59922A/ClimbGen.app/www/index.html
+2015-03-08 16:13:51.299 ClimbGen[3022:32071] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 16:13:51.301 ClimbGen[3022:32071] Multi-tasking -> Device: YES, App: YES
+2015-03-08 16:13:51.303 ClimbGen[3022:32071] Unlimited access to network resources
+2015-03-08 16:13:51.308 ClimbGen[3022:32071] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 16:13:51.615 ClimbGen[3022:32071] [CDVTimer][admob] 0.222027ms
+2015-03-08 16:13:51.615 ClimbGen[3022:32071] [CDVTimer][TotalPluginStartup] 0.505030ms
+2015-03-08 16:13:51.860 ClimbGen[3022:32071] Resetting plugins due to page load.
+2015-03-08 16:13:52.220 ClimbGen[3022:32071] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/C668FC46-F836-41B0-BDE9-FAE66ADF4C98/ClimbGen.app/www/index.html
+2015-03-08 16:16:39.701 ClimbGen[3169:32906] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 16:16:39.703 ClimbGen[3169:32906] Multi-tasking -> Device: YES, App: YES
+2015-03-08 16:16:39.705 ClimbGen[3169:32906] Unlimited access to network resources
+2015-03-08 16:16:39.708 ClimbGen[3169:32906] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 16:16:40.128 ClimbGen[3169:32906] [CDVTimer][admob] 0.221014ms
+2015-03-08 16:16:40.128 ClimbGen[3169:32906] [CDVTimer][TotalPluginStartup] 0.504017ms
+2015-03-08 16:16:40.405 ClimbGen[3169:32906] Resetting plugins due to page load.
+2015-03-08 16:16:40.728 ClimbGen[3169:32906] Finished load of: file:///Users/benavesdownunder/Library/Developer/CoreSimulator/Devices/77BE6512-93F5-4270-9147-A10A24C0B43B/data/Containers/Bundle/Application/5177852C-81E9-4467-B600-DC02BE8C069E/ClimbGen.app/www/index.html

@@ -1,0 +1,1 @@
+An app that generates random workouts for indoor rock climbing according to user preferences.

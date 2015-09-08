@@ -1,0 +1,89 @@
+<!-- 
+
+Things to do here:
+	get working on android
+	Build and test
+	app store bullshit
+	Put linkn on website once finished
+	get working on windows
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- (C) Ben Aves 2014 -->
+	<meta charset="utf-8" />
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+	<meta name="viewport" content="user-scalable=no, width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>Random Climbing Workout Generator</title>
+	<link rel="Stylesheet" type="text/css" href="css/generator.css">
+	<link rel="Stylesheet" href="css/animate.css">
+	<script type="text/javascript" src="cordova.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/viewport-units-buggyfill.js"></script>
+	<script src="js/viewport-units-buggyfill.hacks.js"></script>
+	<script src="js/index.js"></script>
+	<script>
+		window.viewportUnitsBuggyfill.init();
+	</script>
+</head>
+
+<script>
+document.addEventListener("deviceready", genLoad(), false);
+document.addEventListener("deviceready", checkLoad(), false);
+</script>
+<body ontouchmove="blockMove(event)" onload="checkLoad()">
+	<div id="background">
+		<div id="header">ClimbGen</div>
+		<div id="footer">Random Climbing Workout Generator</div>
+		<div id="ad" style="display: none">Ad</div>
+		<div id ="textContainer">
+			<div id="results" class ="animated bounceInUp" class='scrollable'>
+				<p>Choose your settings in the Settings tab.</p>
+				<p>Press Go! to generate your random workout.</p>
+			</div>
+			<div id="settings" class='scrollable' style="display: none" class ="animated bounceInUp"><span class="bold" style="text-align:center">Settings</span>
+				<div style='margin-top: 0.5em'></div>
+				<div class='checkLabel checkbutton touchflash' id="leadCheck">Lead ✓</div>
+				<div class='checkLabel checkbutton touchflash' id="boulderCheck">Boulder ✓</div>
+				<div class='checkLabel checkbutton touchflash' id="topRopeCheck">Top Rope ✓</div>
+				<div class='checkLabel checkbutton touchflash' id="fingerBoardCheck">Finger Board ✓</div>
+				<div class='checkLabel checkbutton touchflash' id="campusBoardCheck">Campus Board ✓</div>
+				<div class='checkLabel checkbutton touchflash' id="weightBeltCheck">Weight Belt ✓</div>	
+				<div class='checkLabel settingsSlider'>
+					<table class="noMargin">
+						<tr>
+							<td>Power</td>
+							<td><input type="range" min="0" max="2" id="sessionFocus" class="settingsSlider"></td>
+							<td>Endurance</td>
+						</tr>
+						<tr>
+							<td>Short</td>
+							<td><input type="range" min="1" max="4" id="sessionLength" class="settingsSlider"></td>
+							<td>Long</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div id="about" style="display: none" class='scrollable' class ="animated bounceInUp">
+				<p><span id="aboutTitle">About this app</span><p>
+				<p>This tool generates a random training session for rock climbing.</p>
+				Use the settings to select discipline(s) (lead, boulder, top rope) and any equipment (fingerboard, campusboard, weight belt). Use the sliders to select the focus of the exercises (power, endurance, or a combination of the two) and the session duration (from one exercise up to four).</p>
+				Each exercise should take approximately 25-30 minutes.</p>
+				<p>(C) 2015 Ben Aves - baves.net</p>
+			</div>
+		</div>
+		<table id="menubar">
+			<tr>
+				<td colspan="2" id="go" ontouchend="update()"><span class="bold">Go!</span></td>
+			</tr>
+			<tr>
+				<td id="Settings" ontouchend="settingsDisp()">Settings</td>
+				<td id="About"ontouchend="about()">About</td>
+			</tr>
+		</table>
+	</div>	
+</body>
+</html>

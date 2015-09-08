@@ -1,0 +1,33 @@
+Node version: v0.10.34
+
+Cordova version: 4.2.0
+
+Config.xml file: 
+
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="295AQHVL3J.net.baves.climbgen" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ClimbGen</name>
+    <description>
+        A workout generator and randomiser for rock climbing.
+    </description>
+    <author email="avesbenjamin@gmail.com" href="baves.net">
+        Ben Aves
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<icon src="www/img/icon.png"/>
+	<preference name="orientation" value="portrait" />
+	<preference name="target-device" value="universal" />
+	<preference name="deployment-target" value="7.0" />
+</widget>
+
+
+Plugins: 
+
+android.support.v4,com.google.cordova.admob,com.google.cordova.admob-facebook,com.google.cordova.admob-flurry,com.google.cordova.admob-iad,com.google.cordova.admob-inmobi,com.google.cordova.admob-mmedia,com.google.cordova.admob-mobfox,com.google.playservices,com.inmobi.sdk,com.rjfun.cordova.extension,com.rjfun.cordova.facebookads,com.rjfun.cordova.flurryads,com.rjfun.cordova.mmedia,com.rjfun.cordova.mobfox
+
+iOS platform:
+
+Xcode 6.1.1
+Build version 6A2008a
+
